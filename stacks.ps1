@@ -1,0 +1,1 @@
+Invoke-RestMethod "https://www.poewiki.net/index.php?title=Special:CargoExport&tables=stackables&&fields=stackables.stack_size%2C+stackables._pageName%2C&where=stackables._pageNamespace+%3D+0&limit=2000&format=json" -OutFile stacks.json

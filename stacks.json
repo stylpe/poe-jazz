@@ -1,0 +1,4122 @@
+[
+    {
+        "stack size": 1,
+        "_pageName": "Brother's Gift"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Brother's Stash"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Chaotic Disposition"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Charged Compass"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Crystalline Geode"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Divine Justice"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Facetor's Lens"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Fortune Blossom"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Fortune Bud"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Fortune Flower"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Horticrafting Blossom"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Horticrafting Bud"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Horticrafting Flower"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Igneous Geode"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Imprint"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Imprinted Bestiary Orb"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Lifeforce Blossom"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Lifeforce Bud"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Lifeforce Flower"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Luck of the Vaal"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Magmatic Ore"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Omen of Acceleration"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Omen of Adrenaline"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Omen of Amelioration"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Omen of Bequeathal"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Omen of Blanching"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Omen of Brilliance"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Omen of Connections"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Omen of Death's Door"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Omen of Death-dancing"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Omen of Fortune"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Omen of Refreshment"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Omen of Resurgence"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Omen of Return"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Omen of Revenge"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Omen of the Jeweller"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Omen of the Soul Devourer"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Prophecy (base item)"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Society's Remorse"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "The Cartographer"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "The Heroic Shot"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "The Shortcut"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "The Void"
+    },
+    {
+        "stack size": 1,
+        "_pageName": "Uncarved Gemstone"
+    },
+    {
+        "stack size": 2,
+        "_pageName": "Acclimatisation"
+    },
+    {
+        "stack size": 2,
+        "_pageName": "Broken Promises"
+    },
+    {
+        "stack size": 2,
+        "_pageName": "Cameria's Cut"
+    },
+    {
+        "stack size": 2,
+        "_pageName": "Duality"
+    },
+    {
+        "stack size": 2,
+        "_pageName": "Heterochromia"
+    },
+    {
+        "stack size": 2,
+        "_pageName": "I See Brothers"
+    },
+    {
+        "stack size": 2,
+        "_pageName": "Light and Truth"
+    },
+    {
+        "stack size": 2,
+        "_pageName": "The Doppelganger"
+    },
+    {
+        "stack size": 2,
+        "_pageName": "The Easy Stroll"
+    },
+    {
+        "stack size": 2,
+        "_pageName": "The Finishing Touch"
+    },
+    {
+        "stack size": 2,
+        "_pageName": "The Lover"
+    },
+    {
+        "stack size": 2,
+        "_pageName": "The Progeny of Lunaris"
+    },
+    {
+        "stack size": 2,
+        "_pageName": "The Spark and the Flame"
+    },
+    {
+        "stack size": 2,
+        "_pageName": "The Throne"
+    },
+    {
+        "stack size": 2,
+        "_pageName": "The Tumbleweed"
+    },
+    {
+        "stack size": 2,
+        "_pageName": "The Unexpected Prize"
+    },
+    {
+        "stack size": 2,
+        "_pageName": "The Wedding Gift"
+    },
+    {
+        "stack size": 2,
+        "_pageName": "Winter's Embrace"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "A Familiar Call"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "A Modest Request"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "A Sea of Blue"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Akil's Prophecy"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Altered Perception"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Bijoux"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Birth of the Three"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Blessing of God"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Buried Treasure"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Cartographer's Delight"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Darker Half"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Desperate Crusade"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Doryani's Epiphany"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Echoes of Love"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Ever-Changing"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Friendship"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Gemcutter's Mercy"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Gemcutter's Promise"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Home"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Hunter's Reward"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Lachrymal Necrosis"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Last Hope"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Man With Bear"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Monochrome"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Sambodhi's Vow"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Sambodhi's Wisdom"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Struck by Lightning"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "The Bitter Blossom"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "The Catalyst"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "The Cheater"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "The Enthusiasts"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "The Gemcutter"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "The Insatiable"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "The Journey"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "The Long Watch"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "The Polymath"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "The Return of the Rat"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "The Risk"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "The Samurai's Eye"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "The Scholar"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "The Shepherd's Sandals"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "The Sigil"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "The Standoff"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "The Survivalist"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "The Sustenance"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "The Wolf's Shadow"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Three Voices"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Turn the Other Cheek"
+    },
+    {
+        "stack size": 3,
+        "_pageName": "Void of the Elements"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "A Chilling Wind"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "A Fate Worse Than Death"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "A Note in the Wind"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Ambitious Obsession"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Atziri's Arsenal"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Auspicious Ambitions"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Azure Rage"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Boundless Realms"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Chasing Risk"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Council of Cats"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Dark Dreams"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Death"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Eldritch Perfection"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Eternal Bonds"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Forbidden Power"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Further Invention"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Guardian's Challenge"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Haunting Shadows"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Her Mask"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Jack in the Box"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Left to Fate"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Love Through Ice"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Merciless Armament"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Nook's Crown"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Rebirth and Renewal"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Shard of Fate"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Blessing of Moosh"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Body"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Breach"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Card Sharp"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Carrion Crow"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Craving"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Deceiver"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Dragon"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Eldritch Decay"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Endurance"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Enforcer"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Eternal War"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Fishmonger"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Fool"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Garish Power"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Gentleman"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Hale Heart"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Incantation"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Inoculated"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Long Con"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Lord of Celebration"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Master"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Messenger"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Price of Loyalty"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Professor"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Rabid Rhoa"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Sacrifice"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Spoiled Prince"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Stormcaller"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Surgeon"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Surveyor"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Traitor"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Warden"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Wolf's Legacy"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "The Wolverine"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Unchained"
+    },
+    {
+        "stack size": 4,
+        "_pageName": "Underground Forest"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "A Dusty Memory"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "A Stone Perfected"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Abandoned Wealth"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Alone in the Darkness"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Astral Protection"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Audacity"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Beauty Through Death"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Broken Truce"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Brotherhood in Exile"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Brush, Paint and Palette"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Call to the First Ones"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Dark Temptation"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Destined to Crumble"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Disdain"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Draped in Dreams"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Earth Drinker"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Emperor's Luck"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Gift of Asenath"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "His Judgement"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Hope"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Hubris"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Imperfect Memories"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Justified Ambition"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Loyalty"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Magnum Opus"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Mitts"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Peaceful Moments"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Perfection"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Scroll Fragment"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Something Dark"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Soul Quenched"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Squandered Prosperity"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Apothecary"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Aspirant"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Bargain"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Battle Born"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Brawny Battle Mage"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Chosen"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Deal"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Deep Ones"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Demoness"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Escape"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Feast"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Fletcher"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Flora's Gift"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Gambler"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Gladiator"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Gulf"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Jeweller's Boon"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The King's Blade"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Landing"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Lion"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Lunaris Priestess"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Master Artisan"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Mayor"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Mercenary"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Opulent"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Penitent"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Price of Prescience"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Price of Protection"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Primordial"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Puzzle"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Realm"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Rite of Elements"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Side Quest"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Tinkerer's Table"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Transformation"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Undaunted"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "The Wolf"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Thirst for Knowledge"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Thunderous Skies"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Vile Power"
+    },
+    {
+        "stack size": 5,
+        "_pageName": "Vinia's Token"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "A Mother's Parting Gift"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "Alivia's Grace"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "Boon of Justice"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "Boon of the First Ones"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "Bowyer's Dream"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "Burning Blood"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "Choking Guilt"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "Costly Curio"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "Deadly Joy"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "Grave Knowledge"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "Immortal Resolve"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "Lethean Temptation"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "Lysah's Respite"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "Misery in Darkness"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "Prometheus' Armoury"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "Reckless Ambition"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "Succor of the Sinless"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Adventuring Spirit"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Army of Blood"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Awakened"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Bear Woman"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Beast"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Blazing Fire"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Bones"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Cache"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Calling"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Celestial Justicar"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Damned"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Dapper Prodigy"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Dark Mage"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Darkest Dream"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Dreamer"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Emptiness"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Enlightened"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Explorer"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Forgotten Treasure"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Forward Gaze"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Fox"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Hive of Knowledge"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Inventor"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Last Supper"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Life Thief"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Lord in Black"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Magma Crab"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Metalsmith's Gift"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Mountain"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Oath"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The One With All"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Pack Leader"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Porcupine"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Prince of Darkness"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Skeleton"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Strategist"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Summoner"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Tower"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Twilight Moon"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Visionary"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Warlord"
+    },
+    {
+        "stack size": 6,
+        "_pageName": "The Wretched"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "Alluring Bounty"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "Blind Venture"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "Deathly Designs"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "Demigod's Wager"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "Dialla's Subjugation"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "Emperor of Purity"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "Endless Night"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "Fire Of Unknown Origin"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "Keeper's Corruption"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "Lantador's Lost Love"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "Lucky Connections"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "Luminous Trove"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "More is Never Enough"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "Prejudice"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "Pride of the First Ones"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "Scholar of the Seas"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "Silence and Frost"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Archmage's Right Hand"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Astromancer"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Dungeon Master"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Ethereal"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Formless Sea"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Forsaken"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Fox in the Brambles"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Golden Era"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Leviathan"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Mad King"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Mind's Eyes"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Obscured"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The One That Got Away"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Price of Devotion"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Road to Power"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Ruthless Ceinture"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Siren"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Sun"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Sword King's Salute"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Trial"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Union"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Vast"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Wilted Rose"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "The Wind"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "Three Faces in the Dark"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "Tranquillity"
+    },
+    {
+        "stack size": 7,
+        "_pageName": "Treasure Hunter"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "Arrogance of the Vaal"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "Baited Expectations"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "Checkmate"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "Dying Anguish"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "From Bone to Ashes"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "Glimmer of Hope"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "Hunter's Resolve"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "Lost Worlds"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "Matryoshka"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "Parasitic Passengers"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "Poisoned Faith"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "Pride Before the Fall"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "Rain of Chaos"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "Rats"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "Remembrance"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "Terrible Secret of Space"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Academic"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Aesthete"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Brittle Emperor"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Cacophony"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Coming Storm"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Cursed King"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Devastator"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Doctor"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Dreamland"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Drunken Aristocrat"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Encroaching Darkness"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Eye of Terror"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Fathomless Depths"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Hook"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The King's Heart"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Nurse"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Offering"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Patient"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Rabbit's Foot"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Scavenger"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Scout"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Shieldbearer"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Thaumaturgist"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Tireless Extractor"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Twins"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Undisputed"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Valkyrie"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Web"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The White Knight"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Whiteout"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Witch"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Wolven King's Bite"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The World Eater"
+    },
+    {
+        "stack size": 8,
+        "_pageName": "The Wrath"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "A Dab of Ink"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Assassin's Favour"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Assassin's Gift"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Azyran's Reward"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Coveted Possession"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Anger"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Anguish"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Contempt"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Doubt"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Dread"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Envy"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Fear"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Greed"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Hatred"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Loathing"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Misery"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Rage"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Scorn"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Sorrow"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Spite"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Suffering"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Torment"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Woe"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Wrath"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Deafening Essence of Zeal"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Desecrated Virtue"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Doedre's Madness"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Essence of Delirium"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Essence of Horror"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Essence of Hysteria"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Essence of Insanity"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Etched in Blood"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Fateful Meeting"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Gift of the Gemling Queen"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Harmony of Souls"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "House of Mirrors"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Humility"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Judging Voices"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Lucky Deck"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Might is Right"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Muttering Essence of Anger"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Muttering Essence of Contempt"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Muttering Essence of Fear"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Muttering Essence of Greed"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Muttering Essence of Hatred"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Muttering Essence of Sorrow"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Muttering Essence of Torment"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Muttering Essence of Woe"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "No Traces"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Rain Tempter"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Remnant of Corruption"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Anger"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Anguish"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Contempt"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Doubt"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Dread"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Envy"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Fear"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Greed"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Hatred"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Loathing"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Misery"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Rage"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Scorn"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Sorrow"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Spite"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Suffering"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Torment"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Woe"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Wrath"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Screaming Essence of Zeal"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Anger"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Anguish"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Contempt"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Doubt"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Dread"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Envy"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Fear"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Greed"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Hatred"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Loathing"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Misery"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Rage"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Scorn"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Sorrow"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Spite"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Suffering"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Torment"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Woe"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Wrath"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Shrieking Essence of Zeal"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "The Admirer"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "The Betrayal"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "The Conduit"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "The Destination"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "The Endless Darkness"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "The Hermit"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "The Hunger"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "The Insane Cat"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "The Jester"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "The Offspring"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "The Pact"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "The Poet"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "The Rusted Bard"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "The Scarred Meadow"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "The Seeker"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "The Soul"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "The Tyrant"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "The Valley of Steel Boxes"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Vanity"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Volatile Power"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Wailing Essence of Anger"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Wailing Essence of Anguish"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Wailing Essence of Contempt"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Wailing Essence of Doubt"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Wailing Essence of Fear"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Wailing Essence of Greed"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Wailing Essence of Hatred"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Wailing Essence of Loathing"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Wailing Essence of Rage"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Wailing Essence of Sorrow"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Wailing Essence of Spite"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Wailing Essence of Suffering"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Wailing Essence of Torment"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Wailing Essence of Woe"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Wailing Essence of Wrath"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Wailing Essence of Zeal"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Weeping Essence of Anger"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Weeping Essence of Contempt"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Weeping Essence of Doubt"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Weeping Essence of Fear"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Weeping Essence of Greed"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Weeping Essence of Hatred"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Weeping Essence of Rage"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Weeping Essence of Sorrow"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Weeping Essence of Suffering"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Weeping Essence of Torment"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Weeping Essence of Woe"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Weeping Essence of Wrath"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Whispering Essence of Contempt"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Whispering Essence of Greed"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Whispering Essence of Hatred"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Whispering Essence of Woe"
+    },
+    {
+        "stack size": 9,
+        "_pageName": "Who Asked"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Abrasive Catalyst"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Abyssal Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Abyssal Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Accelerating Catalyst"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Albino Rhoa Feather"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Amber Oil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Ancestral Tattoo of Bloodlines"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Apprentice Cartographer's Seal"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Armoursmith's Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Awakened Sextant"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Awakener's Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Azure Oil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Bestiary Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Black Oil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Blacksmith's Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Blessing of Chayula"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Blessing of Esh"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Blessing of Tul"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Blessing of Uul-Netol"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Blessing of Xoph"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Blighted Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Blighted Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Bloodstained Fossil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Cartographer's Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Cartographer's Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Celestial Armoursmith's Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Celestial Blacksmith's Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Celestial Jeweller's Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Challenging Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Challenging Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Clear Oil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Crescent Splinter"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Crimson Oil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Crusader's Exalted Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Delirium Orb (generic)"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Deregulation Scroll"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Divine Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Diviner's Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Diviner's Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Dying Light"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Eldritch Exalted Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Eldritch Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Electroshock Scroll"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Elevated Sextant"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Enchanted Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Enkindling Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Eternal Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Exalted Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Exceptional Eldritch Ember"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Exceptional Eldritch Ichor"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Faceted Fossil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Feral Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Fertile Catalyst"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Fine Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Fine Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Foreboding Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Foreboding Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Fossilised Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Fossilised Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Fractured Fossil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Fragmentation Scroll"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Fragmented Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Fragmented Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Gemcutter's Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Geomancer's Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Gilded Fossil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Glyphic Fossil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Golden Oil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Grand Eldritch Ember"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Grand Eldritch Ichor"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Greater Eldritch Ember"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Greater Eldritch Ichor"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Haemocombustion Scroll"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Hinekora's Lock"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Hollow Fossil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Honoured Tattoo of the Barbarian"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Honoured Tattoo of the Berserker"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Honoured Tattoo of the Dove"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Honoured Tattoo of the Flock"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Honoured Tattoo of the Flood"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Honoured Tattoo of the Hatungo"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Honoured Tattoo of the Hunter"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Honoured Tattoo of the Makanga"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Honoured Tattoo of the Mountain"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Honoured Tattoo of the Oak"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Honoured Tattoo of the Pa"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Honoured Tattoo of the Pillager"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Honoured Tattoo of the Sky"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Honoured Tattoo of the Storm"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Honoured Tattoo of the Tuatara"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Honoured Tattoo of the Turtle"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Honoured Tattoo of the Warlord"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Honoured Tattoo of the Wise"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Hunter's Exalted Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Imbued Catalyst"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Imperial Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Indigo Oil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Infused Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Instilling Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Intrinsic Catalyst"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Jeweller's Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Journey Tattoo of Makanui"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Journey Tattoo of the Body"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Journey Tattoo of the Mind"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Journey Tattoo of the Soul"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Journeyman Cartographer's Seal"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Kalguuran Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Kalguuran Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Lesser Eldritch Ember"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Lesser Eldritch Ichor"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Loyalty Tattoo of Ahuana"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Loyalty Tattoo of Akoya"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Loyalty Tattoo of Ikiaho"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Loyalty Tattoo of Kahuturoa"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Loyalty Tattoo of Kaom"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Loyalty Tattoo of Kiloava"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Loyalty Tattoo of Maata"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Loyalty Tattoo of Rakiata"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Loyalty Tattoo of Tawhanuku"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Loyalty Tattoo of Utula"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Maddening Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Master Cartographer's Seal"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Mirror of Kalandra"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Mysterious Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Noxious Catalyst"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Obscured Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Obscured Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Oil Extractor"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Opalescent Oil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Orb of Conflict"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Orb of Dominance"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Ornate Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Otherworldly Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Portentous Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Potent Alchemical Resonator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Potent Chaotic Resonator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Powerful Alchemical Resonator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Powerful Chaotic Resonator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Primal Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Primal Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Prime Alchemical Resonator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Prime Chaotic Resonator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Prime Sextant"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Primitive Alchemical Resonator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Primitive Chaotic Resonator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Prismatic Catalyst"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Prosperity"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Redeemer's Exalted Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Reflective Oil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Regal Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Ritual Vessel"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Sacred Crystallised Lifeforce"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Sacred Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Sanctified Fossil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Sepia Oil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Silver Oil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Simple Sextant"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Singular Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Singular Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Skittering Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Skittering Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Specularity Scroll"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Stacked Deck"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Surveyor's Compass"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tainted Blessing"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tainted Catalyst"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tainted Divine Teardrop"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tainted Exalted Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tainted Oil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tangled Fossil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Arohongui Makanga"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Arohongui Moonwarden"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Arohongui Scout"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Arohongui Shaman"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Arohongui Warmonger"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Arohongui Warrior"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Hinekora Deathwarden"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Hinekora Makanga"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Hinekora Shaman"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Hinekora Storyteller"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Hinekora Warmonger"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Hinekora Warrior"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Kitava Blood Drinker"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Kitava Heart Eater"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Kitava Makanga"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Kitava Rebel"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Kitava Shaman"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Kitava Warrior"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Ngamahu Firewalker"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Ngamahu Makanga"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Ngamahu Shaman"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Ngamahu Warmonger"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Ngamahu Warrior"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Ngamahu Woodcarver"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Ramako Archer"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Ramako Fleetfoot"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Ramako Makanga"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Ramako Scout"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Ramako Shaman"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Ramako Sniper"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Rongokurai Brute"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Rongokurai Goliath"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Rongokurai Guard"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Rongokurai Makanga"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Rongokurai Turtle"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Rongokurai Warrior"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Tasalio Bladedancer"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Tasalio Makanga"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Tasalio Scout"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Tasalio Shaman"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Tasalio Tideshifter"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Tasalio Warrior"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Tawhoa Herbalist"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Tawhoa Makanga"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Tawhoa Naturalist"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Tawhoa Scout"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Tawhoa Shaman"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Tawhoa Warrior"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Tukohama Brawler"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Tukohama Makanga"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Tukohama Shaman"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Tukohama Warcaller"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Tukohama Warmonger"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Tukohama Warrior"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Valako Makanga"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Valako Scout"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Valako Shaman"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Valako Shieldbearer"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Valako Stormrider"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tattoo of the Valako Warrior"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Teal Oil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Tempering Catalyst"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Thaumaturge's Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Thaumaturge's Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "The Arena Champion"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "The Celestial Stone"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "The Demon"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "The Eye of the Dragon"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "The Greatest Intentions"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "The Immortal"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "The Innocent"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "The Journalist"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "The Last One Standing"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "The Saint's Treasure"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Time-light Scroll"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Time-Lost Incubator"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Time-Lost Relic"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Timeless Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Turbulent Catalyst"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Unshaping Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Unstable Catalyst"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Valdo's Puzzle Box"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Verdant Oil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Vial of Awakening"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Vial of Consequence"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Vial of Dominance"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Vial of Fate"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Vial of Sacrifice"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Vial of Summoning"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Vial of the Ghost"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Vial of the Ritual"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Vial of Transcendence"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Violet Oil"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Warlord's Exalted Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Whispering Delirium Orb"
+    },
+    {
+        "stack size": 10,
+        "_pageName": "Whispering Incubator"
+    },
+    {
+        "stack size": 11,
+        "_pageName": "Dementophobia"
+    },
+    {
+        "stack size": 11,
+        "_pageName": "The Artist"
+    },
+    {
+        "stack size": 11,
+        "_pageName": "The Chains that Bind"
+    },
+    {
+        "stack size": 11,
+        "_pageName": "The Dragon's Heart"
+    },
+    {
+        "stack size": 11,
+        "_pageName": "The Fiend"
+    },
+    {
+        "stack size": 11,
+        "_pageName": "The Harvester"
+    },
+    {
+        "stack size": 11,
+        "_pageName": "The Sephirot"
+    },
+    {
+        "stack size": 11,
+        "_pageName": "Wealth and Power"
+    },
+    {
+        "stack size": 12,
+        "_pageName": "Divine Beauty"
+    },
+    {
+        "stack size": 12,
+        "_pageName": "The Avenger"
+    },
+    {
+        "stack size": 12,
+        "_pageName": "The Fortunate"
+    },
+    {
+        "stack size": 12,
+        "_pageName": "The Hoarder"
+    },
+    {
+        "stack size": 12,
+        "_pageName": "The Lich"
+    },
+    {
+        "stack size": 12,
+        "_pageName": "The Old Man"
+    },
+    {
+        "stack size": 12,
+        "_pageName": "The Watcher"
+    },
+    {
+        "stack size": 12,
+        "_pageName": "Treasures of the Vaal"
+    },
+    {
+        "stack size": 13,
+        "_pageName": "Anarchy's Price"
+    },
+    {
+        "stack size": 13,
+        "_pageName": "Cursed Words"
+    },
+    {
+        "stack size": 13,
+        "_pageName": "Seven Years Bad Luck"
+    },
+    {
+        "stack size": 13,
+        "_pageName": "The Cataclysm"
+    },
+    {
+        "stack size": 13,
+        "_pageName": "Triskaidekaphobia"
+    },
+    {
+        "stack size": 16,
+        "_pageName": "Lingering Remnants"
+    },
+    {
+        "stack size": 16,
+        "_pageName": "Mawr Blaidd"
+    },
+    {
+        "stack size": 16,
+        "_pageName": "The Queen"
+    },
+    {
+        "stack size": 16,
+        "_pageName": "Unrequited Love"
+    },
+    {
+        "stack size": 18,
+        "_pageName": "The Catch"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Aberrant Fossil"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Aetheric Fossil"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Alchemy Shard"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Alteration Shard"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Amplifying Power Core"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Ancient Orb"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Ancient Shard"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Annulment Shard"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Armour Recombinator"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Augmenting Power Core"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Binding Shard"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Blacksmith's Whetstone"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Blessed Orb"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Blighted Scouting Report"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Bound Fossil"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Cartographer's Chisel"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Chaos Orb"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Chaos Shard"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Chromatic Orb"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Comprehensive Scouting Report"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Corroded Fossil"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Deft Fossil"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Delirious Scouting Report"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Dense Fossil"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Eldritch Chaos Orb"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Eldritch Orb of Annulment"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Engineer's Orb"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Engineer's Shard"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Exalted Shard"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Explorer's Scouting Report"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Fracturing Orb"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Fracturing Shard"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Frigid Fossil"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Fundamental Fossil"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Gemcutter's Prism"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Glassblower's Bauble"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Harbinger's Orb"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Harbinger's Shard"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Horizon Shard"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Influenced Scouting Report"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Infused Engineer's Orb"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Jagged Fossil"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Jeweller's Orb"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Jewellery Recombinator"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Lucent Fossil"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Metallic Fossil"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Mirror Shard"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Operative's Scouting Report"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Orb of Alchemy"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Orb of Alteration"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Orb of Annulment"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Orb of Binding"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Orb of Chance"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Orb of Fusing"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Orb of Horizons"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Otherworldly Scouting Report"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Perfect Fossil"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Power Core"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Prime Regrading Lens"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Prismatic Fossil"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Pristine Fossil"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Regal Shard"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Scorched Fossil"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Secondary Regrading Lens"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Serrated Fossil"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Shuddering Fossil"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Singular Scouting Report"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Tailoring Orb"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Tainted Blacksmith's Whetstone"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Tainted Chaos Orb"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Tainted Chromatic Orb"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Tainted Jeweller's Orb"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Tainted Mythic Orb"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Tainted Orb of Fusing"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Tempering Orb"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Transforming Power Core"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Transmutation Shard"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Vaal Orb"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Vaal Scouting Report"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Veiled Chaos Orb"
+    },
+    {
+        "stack size": 20,
+        "_pageName": "Weapon Recombinator"
+    },
+    {
+        "stack size": 22,
+        "_pageName": "Imperial Legacy"
+    },
+    {
+        "stack size": 27,
+        "_pageName": "Rebirth"
+    },
+    {
+        "stack size": 30,
+        "_pageName": "Orb of Augmentation"
+    },
+    {
+        "stack size": 30,
+        "_pageName": "Orb of Scouring"
+    },
+    {
+        "stack size": 30,
+        "_pageName": "Silver Coin"
+    },
+    {
+        "stack size": 30,
+        "_pageName": "Silver Coin (Prophecy)"
+    },
+    {
+        "stack size": 40,
+        "_pageName": "Armourer's Scrap"
+    },
+    {
+        "stack size": 40,
+        "_pageName": "Orb of Regret"
+    },
+    {
+        "stack size": 40,
+        "_pageName": "Orb of Transmutation"
+    },
+    {
+        "stack size": 40,
+        "_pageName": "Orb of Unmaking"
+    },
+    {
+        "stack size": 40,
+        "_pageName": "Portal Scroll"
+    },
+    {
+        "stack size": 40,
+        "_pageName": "Scroll of Wisdom"
+    },
+    {
+        "stack size": 40,
+        "_pageName": "Tainted Armourer's Scrap"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Necromancy Net"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Primal Blisterfruit"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Primal Blisterlord Bulb"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Primal Chimeral Grain"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Primal Cleaveling Seed"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Primal Crushclaw Bulb"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Primal Cystcaller Bulb"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Primal Dustcrab Grain"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Primal Dustspitter Seed"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Primal Feasting Horror Seed"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Primal Maw Seed"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Primal Reborn Bulb"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Primal Rhex Grain"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Primal Rhex Matriarch Bulb"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Primal Rhoa Seed"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Primal Scrabbler Grain"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Primal Viper Grain"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Reinforced Iron Net"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Reinforced Rope Net"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Reinforced Steel Net"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Ritual Splinter"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Simple Iron Net"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Simple Rope Net"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Simple Steel Net"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Splinter of Chayula"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Splinter of Esh"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Splinter of Tul"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Splinter of Uul-Netol"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Splinter of Xoph"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Strong Iron Net"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Strong Rope Net"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Strong Steel Net"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Thaumaturgical Net"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Timeless Eternal Empire Splinter"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Timeless Karui Splinter"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Timeless Maraketh Splinter"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Timeless Templar Splinter"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Timeless Vaal Splinter"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Vivid Abberarach Bulb"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Vivid Arachnid Seed"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Vivid Devourer Bulb"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Vivid Leech Seed"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Vivid Nestback Grain"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Vivid Parasite Grain"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Vivid Razorleg Grain"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Vivid Sapsucker Grain"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Vivid Scalefruit"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Vivid Scorpion Seed"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Vivid Striketail Grain"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Vivid Thornweaver Seed"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Vivid Vulture Bulb"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Vivid Watcher Bulb"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Vivid Weta Seed"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Vivid Whipleg Bulb"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Wild Ape Seed"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Wild Brambleback Bulb"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Wild Bristle Matron Bulb"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Wild Bristlebeast Grain"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Wild Chieftain Grain"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Wild Hatchling Seed"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Wild Hellion Alpha Bulb"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Wild Hellion Seed"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Wild Homunculus Grain"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Wild Infestation Queen Bulb"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Wild Snap Hound Grain"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Wild Spikeback Grain"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Wild Thornfruit"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Wild Thornmaw Bulb"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Wild Thornwolf Seed"
+    },
+    {
+        "stack size": 100,
+        "_pageName": "Wild Ursaling Seed"
+    },
+    {
+        "stack size": 300,
+        "_pageName": "Simulacrum Splinter"
+    },
+    {
+        "stack size": 1000,
+        "_pageName": "Astragali"
+    },
+    {
+        "stack size": 1000,
+        "_pageName": "Burial Medallion"
+    },
+    {
+        "stack size": 1000,
+        "_pageName": "Exotic Coinage"
+    },
+    {
+        "stack size": 1000,
+        "_pageName": "Scrap Metal"
+    },
+    {
+        "stack size": 5000,
+        "_pageName": "Exceptional Black Scythe Artifact"
+    },
+    {
+        "stack size": 5000,
+        "_pageName": "Exceptional Broken Circle Artifact"
+    },
+    {
+        "stack size": 5000,
+        "_pageName": "Exceptional Order Artifact"
+    },
+    {
+        "stack size": 5000,
+        "_pageName": "Exceptional Sun Artifact"
+    },
+    {
+        "stack size": 5000,
+        "_pageName": "Gold"
+    },
+    {
+        "stack size": 5000,
+        "_pageName": "Perandus Coin"
+    },
+    {
+        "stack size": 25000,
+        "_pageName": "Grand Black Scythe Artifact"
+    },
+    {
+        "stack size": 25000,
+        "_pageName": "Grand Broken Circle Artifact"
+    },
+    {
+        "stack size": 25000,
+        "_pageName": "Grand Order Artifact"
+    },
+    {
+        "stack size": 25000,
+        "_pageName": "Grand Sun Artifact"
+    },
+    {
+        "stack size": 50000,
+        "_pageName": "Greater Black Scythe Artifact"
+    },
+    {
+        "stack size": 50000,
+        "_pageName": "Greater Broken Circle Artifact"
+    },
+    {
+        "stack size": 50000,
+        "_pageName": "Greater Order Artifact"
+    },
+    {
+        "stack size": 50000,
+        "_pageName": "Greater Sun Artifact"
+    },
+    {
+        "stack size": 50000,
+        "_pageName": "Lesser Black Scythe Artifact"
+    },
+    {
+        "stack size": 50000,
+        "_pageName": "Lesser Broken Circle Artifact"
+    },
+    {
+        "stack size": 50000,
+        "_pageName": "Lesser Order Artifact"
+    },
+    {
+        "stack size": 50000,
+        "_pageName": "Lesser Sun Artifact"
+    },
+    {
+        "stack size": 50000,
+        "_pageName": "Primal Crystallised Lifeforce"
+    },
+    {
+        "stack size": 50000,
+        "_pageName": "Primal Wisps"
+    },
+    {
+        "stack size": 50000,
+        "_pageName": "Rogue's Marker"
+    },
+    {
+        "stack size": 50000,
+        "_pageName": "Vivid Crystallised Lifeforce"
+    },
+    {
+        "stack size": 50000,
+        "_pageName": "Vivid Wisps"
+    },
+    {
+        "stack size": 50000,
+        "_pageName": "Wild Crystallised Lifeforce"
+    },
+    {
+        "stack size": 50000,
+        "_pageName": "Wild Wisps"
+    }
+]

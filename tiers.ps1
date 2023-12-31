@@ -1,7 +1,12 @@
-$data = Get-Content ./currency.json | ConvertFrom-Json
-$div = $data.lines | where detailsId -eq "divine-orb" | % chaosEquivalent
-$tiered = $data.lines `
-    | select currencyTypeName, detailsId, chaosEquivalent, @{l="log"; e={[math]::Log($_.chaosEquivalent,$div)}} `
+$data = Get-Content ./currency.json `
+    | ConvertFrom-Json `
+    | % lines `
+    | select @{l="name";e="currencyTypeName"}, `
+        @{l="value";e="chaosEquivalent"}
+
+$div = $data | where name -eq "Divine Orb" | % value
+$tiered = $data `
+    | select *,@{l="log"; e={[math]::Log($_.value,$div)}} `
     | select *,@{l="tier";e={[int] [math]::Max([math]::Floor($_.log*6)+8,0)}}
 
 $stacks=@{}
@@ -10,8 +15,8 @@ Get-Content ./stacks.json `
     | % {$stacks[$_._pageName]=$_."stack size"}
 
 $typed=$tiered | select *, `
-    @{l="stack";e={$stacks[$_.currencyTypeName]}}, `
-    @{l="subtype";e={ switch -Regex ($_.currencyTypeName){
+    @{l="stack";e={$stacks[$_.name]}}, `
+    @{l="subtype";e={ switch -Regex ($_.name){
         "Mirror|Hinekora" {"god-tier"}
         "Tainted" {"scourge";break}
         "Shard" {"shard";break}
@@ -25,4 +30,4 @@ $typed=$tiered | select *, `
         default {"basic"}
     }}}
 
-$typed | Sort-Object subtype,currencyTypeName | ft currencyTypeName -GroupBy subtype
+$typed | Sort-Object subtype,name | ft name -GroupBy subtype

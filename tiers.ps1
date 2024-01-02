@@ -1,27 +1,13 @@
-function readCurrency($files) {
-    $files | % {
-        Get-Content $_ `
-        | ConvertFrom-Json `
-        | % lines `
-        | select @{l="name";e="currencyTypeName"}, `
-            @{l="value";e="chaosEquivalent"}
-    }
+function calc([string]$name, $e) {
+    return @{ name=$name; e=$e }
 }
-$data = readCurrency currency.json,fragments.json
-$div = $data | where name -eq "Divine Orb" | % value
 
-$tiered = $data `
-    | select *,@{l="log"; e={[math]::Log($_.value,$div)}} `
-    | select *,@{l="tier";e={[int] [math]::Max([math]::Floor($_.log*6)+8,0)}}
+$stacks = Invoke-RestMethod "https://www.poewiki.net/index.php?title=Special:CargoExport&tables=stackables&&fields=stackables.stack_size%3Dsize%2C+stackables._pageName%3Dname%2C&where=stackables._pageNamespace+%3D+0&limit=2000&format=json"
+$stacksLookup = @{}
+$stacks | % {$stacksLookup[$_.name]=$_.size}
 
-$stacks=@{}
-Get-Content ./stacks.json `
-    | ConvertFrom-Json `
-    | % {$stacks[$_._pageName]=$_."stack size"}
-
-$typed=$tiered | select *, `
-    @{l="stack";e={$stacks[$_.name]}}, `
-    @{l="subtype";e={ switch -Regex ($_.name){
+function categorize([string]$name) {
+    switch -Regex ($name){
         "Mirror|Hinekora" {"god-tier";break}
         "Key|Valdo" {"key";break}
         "Goddess" {"lab";break}
@@ -39,6 +25,25 @@ $typed=$tiered | select *, `
         "Stacked Deck" {"card";break}
         #"Ritual" {"other";break}
         default {"basic"}
-    }}}
+    }
+}
 
-$typed | Sort-Object subtype,name | ft name -GroupBy subtype
+$economy = Invoke-RestMethod "https://poe.ninja/api/data/denseoverviews?league=Affliction"
+
+$items = $economy.currencyOverviews + $economy.itemOverviews | % {
+    if ($_.type -eq "Currency") { $type = calc type {categorize $_.name} }
+    else { $ptype = $_.type; $type = calc type {$ptype} }
+    $stackprop = calc stack {$stacksLookup[$_.name] ?? 1}
+    $_.lines | select name,variant,chaos,$type,$stackprop
+}
+
+$div = $items | where name -eq "Divine Orb" | % chaos
+
+$tierprop = calc tier {
+    [int] [math]::Max(
+        [math]::Floor(
+            [math]::Log($_.chaos,$div) * 6
+        ) + 8, 0
+    )
+}
+$tiered = $items | select *, $tierprop

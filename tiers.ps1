@@ -5,6 +5,7 @@ function calc([string]$name, $e) {
 $stacks = Invoke-RestMethod "https://www.poewiki.net/index.php?title=Special:CargoExport&tables=stackables&&fields=stackables.stack_size%3Dsize%2C+stackables._pageName%3Dname%2C&where=stackables._pageNamespace+%3D+0&limit=2000&format=json"
 $stacksLookup = @{}
 $stacks | % { $stacksLookup[$_.name] = $_.size }
+$economy = Invoke-RestMethod "https://poe.ninja/api/data/denseoverviews?league=Affliction"
 
 function categorize([string]$name) {
     switch -Regex ($name) {
@@ -27,17 +28,21 @@ function categorize([string]$name) {
     }
 }
 
-$economy = Invoke-RestMethod "https://poe.ninja/api/data/denseoverviews?league=Affliction"
-
-$items = $economy.currencyOverviews + $economy.itemOverviews | % {
+# filtering out some types that are not yet handled properly
+# or that get replaced (i.e. shards), then expanding some properties
+$items = $economy.currencyOverviews + $economy.itemOverviews `
+| ? type -NotIn Shard,BaseType,Beast,ClusterJewel,IncursionTemple,HelmetEnchant `
+| % {
     if ($_.type -eq "Currency") { $exp = { categorize $_.name } }
     else { $ptype = $_.type; $exp = { $ptype } }
     $type = calc type $exp
     $stackprop = calc stack { $stacksLookup[$_.name] ?? 1 }
-    $_.lines | select name, variant, chaos, $type, $stackprop
-} | ? type -NotIn Shard,BaseType,Beast,ClusterJewel,IncursionTemple
-# filtering out some types that are not yet handled properly
-# or that get replaced (i.e. shards)
+    $variantprop = calc variant { $_.variant -split ", " }
+    $_.lines | select name, $variantprop, chaos, $type, $stackprop
+}
+
+# Get a summary of variants:
+# $items | group type | fl Name,@{n="Variants";e={$_.group.variant | Sort-Object -Unique | Join-String -Separator ", "}}
 
 # Synthesized shard prices
 $basic = $items | ? type -In Basic,GodTier

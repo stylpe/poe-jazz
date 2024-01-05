@@ -62,6 +62,10 @@ $orbToShard = $stacks `
     }
 $items += $orbToShard
 
+# Calculate map tiers
+$maptierprop = calc MapTier { @($_.variant) -like "T*" -replace "T","" -as [int[]] }
+$maps = $items | ? type -Like "*Map" | select *,$maptierprop
+
 # Calculate tiers
 $div = $items | where name -eq "Divine Orb" | % chaos
 $tierprop = calc tier {

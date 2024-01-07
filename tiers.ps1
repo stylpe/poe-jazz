@@ -62,8 +62,9 @@ $items += $orbToShard
 # $items | group type | fl Name,@{n="Variants";e={$_.group.variant | Sort-Object -Unique | Join-String -Separator ", "}}
 
 # Calculate map tiers
-$maptierprop = calc MapTier { @($_.variant) -like "T*" -replace "T","" -as [int[]] }
-$maps = $items | ? type -Like "*Map" | select *,$maptierprop
+$items | ? type -Like "*Map" | % {
+    Add-Member -Force -InputObject $_ MapTier (@($_.variant -like "T*")[0] -replace "T","" -as [int])
+}
 
 # Calculate tiers
 # My note progression is C D# E F# G Bb

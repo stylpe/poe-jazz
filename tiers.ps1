@@ -61,10 +61,6 @@ $items += $orbToShard
 # Get a summary of variants:
 # $items | group type | fl Name,@{n="Variants";e={$_.group.variant | Sort-Object -Unique | Join-String -Separator ", "}}
 
-# Calculate map tiers
-$items | ? type -Like "*Map" | % {
-    Add-Member -Force -InputObject $_ MapTier (@($_.variant -like "T*")[0] -replace "T","" -as [int])
-}
 
 # Calculate tiers
 # My note progression is C D# E F# G Bb
@@ -89,6 +85,12 @@ $tiered = $items | select *, $tierprop
 # Test the math:
 # $tiered | group tier | select name, {$_.group | measure chaos -Minimum -Maximum | select * } | select name -ExpandProperty "$*" | select Name,@{n="BreakPoint";e={$tierBreakpoints | where t -eq $_.Name | % c} },Minimum,Maximum | ft *,{$_.Minimum -ge $_.BreakPoint}
 
+# Override cheap maps
+$tiered |
+    ? type -Like "*Map" |
+    ? chaos -lt 10 |
+    % { $_.tier = (@($_.variant -like "T*")[0] -replace "T","" -as [int]) }
+
 # Generate item stacks for each tier
 $stacks = Invoke-RestMethod "https://www.poewiki.net/index.php?title=Special:CargoExport&tables=stackables&&fields=stackables.stack_size%3Dsize%2C+stackables._pageName%3Dname%2C&where=stackables._pageNamespace+%3D+0&limit=2000&format=json"
 $stacksLookup = @{}
@@ -110,3 +112,8 @@ $stacked = $stackable | % {
     }
 }
 $tiered += $stacked
+
+$tiered |
+    Sort-Object tier,stack -Descending |
+    select -First 100 |
+    ft tier,type,variant,stack,name

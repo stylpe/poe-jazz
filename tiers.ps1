@@ -115,5 +115,11 @@ $tiered += $stacked
 
 $tiered |
     Sort-Object tier,stack -Descending |
-    select -First 100 |
-    ft tier,type,variant,stack,name
+    select -First 100 | % {
+        "Show"
+        "BaseType ""{0}""" -f $_.name
+        if ($_.stack) { "StackSize >= {0}" -f $_.stack }
+        "CustomAlertSound ""{0}-{1:00}.wav""" -f $_.type,$_.tier
+        "Continue"
+        ""
+    } | Out-File jazz.filter -Encoding utf8 -Force

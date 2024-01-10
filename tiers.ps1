@@ -31,6 +31,14 @@ function categorize([string]$name) {
 $currency = $economy | % currencyOverviews -PipelineVariable group | % lines |
     select name, chaos, (calc type {$group.type}), (calc variant { categorize $_.name }) |
     ? variant -ne "Shard" # these get calculated
+
+# Synthesize Chaos Orb entry
+$currency += [PSCustomObject]@{
+    name = "Chaos Orb"
+    chaos = 1
+    type = "Currency"
+    variant = "Basic"
+}
 $items = $currency
 
 # filtering out some types that are not yet handled properly
@@ -45,10 +53,7 @@ $basic = $currency | ? variant -In Basic,GodTier
 $orbToShard = $stacks `
 | ? name -match " Shard$" `
 | % {
-        $chaos = if($_.name -eq "Chaos Shard") {1} else {
-            $commonPart = $_.name -replace " Shard",""
-            $basic | ? name -match $commonPart | select -First 1 -expand chaos
-        }
+        $chaos = $basic | ? name -match ($_.name -replace " Shard","") | select -First 1 -expand chaos
         [PSCustomObject]@{
             name = $_.name
             chaos = $chaos / $_.size
@@ -167,6 +172,7 @@ $tiered |
                 "Oil" { "glocken" }
                 "Ritual" { "steeldrum" }
                 "Scourge" { "steeldrum" }
+                "Shard" { "pluck" }
             } }
             "DeliriumOrb" { "musicbox" }
             "DivinationCard" { "piano" }
@@ -180,8 +186,8 @@ $tiered |
             "Vial" { "pluck" }
             default { throw "Unmapped item type: $_" }
         }
-        "CustomAlertSound ""jazz/{0}-{1:00}.ogg""" -f $sound,$_.tier
-        "DisableDropSound"
+        "CustomAlertSound ""jazz/{0}-{1:00}.ogg"" 200" -f $sound,$_.tier
+        #"DisableDropSound"
         "Continue"
         ""
     } -End {

@@ -85,11 +85,15 @@ $tiered = $items | select *, $tierprop
 # Test the math:
 # $tiered | group tier | select name, {$_.group | measure chaos -Minimum -Maximum | select * } | select name -ExpandProperty "$*" | select Name,@{n="BreakPoint";e={$tierBreakpoints | where t -eq $_.Name | % c} },Minimum,Maximum | ft *,{$_.Minimum -ge $_.BreakPoint}
 
-# Override cheap maps
+
 $tiered |
     ? type -Like "*Map" |
-    ? chaos -lt 10 |
-    % { $_.tier = (@($_.variant -like "T*")[0] -replace "T","" -as [int]) }
+    % {
+        $mt = (@($_.variant -like "T*")[0] -replace "T","" -as [int])
+        Add-Member -InputObject $_ maptier $mt -Force
+        if($_.chaos -lt 10) {$_.tier = $_.maptier} # Override cheap maps
+    }
+
 
 # Generate item stacks for each tier
 $stacks = Invoke-RestMethod "https://www.poewiki.net/index.php?title=Special:CargoExport&tables=stackables&&fields=stackables.stack_size%3Dsize%2C+stackables._pageName%3Dname%2C&where=stackables._pageNamespace+%3D+0&limit=2000&format=json"
@@ -113,13 +117,75 @@ $stacked = $stackable | % {
 }
 $tiered += $stacked
 
+New-Item out -ItemType Directory -Force
 $tiered |
-    Sort-Object tier,stack -Descending |
-    select -First 100 | % {
+    ? type -NotIn "Memory","" |
+    Sort-Object tier,stack | # Lowest tier first so higher tiers override
+    % -Begin {
+        "# https://github.com/stylpe/poe-jazz"
+        ""
+    } -Process {
+        #"# " + (ConvertTo-Json -Compress -InputObject $_)
         "Show"
-        "BaseType ""{0}""" -f $_.name
+        "BaseType ""{0}""" -f ($_.name -replace "Blight(-ravag)?ed ")
+        #"Class"
+
+        if ($_.type -match "Map") {
+            "MapTier $($_.maptier)"
+            "BlightedMap $($_.type -eq "BlightedMap")"
+            "UberBlightedMap $($_.type -eq "BlightRavagedMap")"
+        }
+
+        #"GemLevel"
+        #"Quality"
+
+        #"ItemLevel"
+        #"LinkedSockets"
+
+        #"Rarity = Unique"
+
         if ($_.stack) { "StackSize >= {0}" -f $_.stack }
-        "CustomAlertSound ""{0}-{1:00}.wav""" -f $_.type,$_.tier
+        $v = $_.variant
+        $sound = switch ($_.type) {
+            "Map" { "guitar" }
+            "Fragment" { if($v -in "Boss","Key","Lab","Memory") {"organ"} else {"bass"} }
+            "BlightedMap" { "slapbass" }
+            "BlightRavagedMap" { "slapbass" }
+            "Invitation" { "organ" }
+            "Memory" { "organ" }
+
+            "Artifact" { "brass" }
+            "Currency" { switch($v) {
+                "Atlas" { "trumpet" }
+                "Basic" { "sax" }
+                "Breach" { "trumpet" }
+                "Catalyst" { "pluck" }
+                "DivinationCard" { "piano" }
+                "GodTier" { "hit" }
+                "Harvest" { "brass" }
+                "Influenced" { "trumpet" }
+                "Oil" { "glocken" }
+                "Ritual" { "steeldrum" }
+                "Scourge" { "steeldrum" }
+            } }
+            "DeliriumOrb" { "musicbox" }
+            "DivinationCard" { "piano" }
+            "Essence" { "brass" }
+            "Fossil" { "marimba" }
+            "Incubator" { "brass" }
+            "Oil" { "pluck" }
+            "Omen" { "steeldrum" }
+            "Resonator" { "marimba" }
+            "Scarab" { "trumpet" }
+            "Vial" { "pluck" }
+            default { throw "Unmapped item type: $_" }
+        }
+        "CustomAlertSound ""jazz/{0}-{1:00}.ogg""" -f $sound,$_.tier
+        "DisableDropSound"
         "Continue"
         ""
-    } | Out-File jazz.filter -Encoding utf8 -Force
+    } -End {
+        "Import ""v2.filter"""
+    } | Out-File out/jazz.filter -Encoding utf8 -Force
+Get-Item out/jazz.filter
+Copy-Item ./out/jazz.filter "C:\Users\mikal\Documents\My Games\Path of Exile\jazz.filter"
